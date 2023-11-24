@@ -57,11 +57,11 @@ const Product= ({product, setProduct, detail, view, close, setClose, addtocart})
                 <h3>Categories</h3>
                     <ul>
                     <li onClick={() => AllProducts()}>All Products</li>
-                        <li onClick={() =>filtterproduct("Historical")}>Historical</li>
-                        <li onClick={() =>filtterproduct("Survival")}>Survival</li>
-                        <li onClick={() =>filtterproduct("Romance")}>Romance</li>
-                        <li onClick={() =>filtterproduct("Mystery")}>Mystery</li>
-                        <li onClick={() =>filtterproduct("Contemporary")}>Contemporary</li>
+                        <li onClick={() =>filtterproduct("Trundle")}>Trundle</li>
+                        <li onClick={() =>filtterproduct("Murphy")}>Murphy</li>
+                        <li onClick={() =>filtterproduct("Storage")}>Storage</li>
+                        <li onClick={() =>filtterproduct("Adjustable")}>Adjustable</li>
+                        <li onClick={() =>filtterproduct("Canopy")}>Canopy</li>
                     </ul>
                 </div>
             </div>

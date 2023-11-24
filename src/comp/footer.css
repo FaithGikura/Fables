@@ -9,7 +9,7 @@
 {
     padding: 30px 40px;
     width: 100%;
-    background: orange;
+    background: rgb(88, 126, 136);
 }
 .footer .container
 {
@@ -25,7 +25,7 @@
 {
     margin-top: 20px;
     font-size: 16px;
-    color: whitesmoke;
+    color: rgb(211, 189, 189);
 }
 .footer .container .about .detail .icon
 {
@@ -43,7 +43,7 @@
 }
 .footer .container .about .detail .icon li:hover
 {
-    background: #0989ff;
+    background: #7a3f81;
     color: whitesmoke;
     border-radius: 5px;
     font-size: 16px;
@@ -56,7 +56,7 @@
 .footer .container .account h3
 {
    font-size: 32px;
-   color: salmon; 
+   color: rgb(250, 114, 193); 
 }
 .footer .container .account ul
 {
@@ -73,7 +73,7 @@
 }
 .footer .container .account ul li:hover
 {
-    color: #0989ff;
+    color: #192f44;
 }
 .footer .container .page
 {
@@ -83,7 +83,7 @@
 .footer .container .page h3
 {
    font-size: 32px;
-   color: salmon; 
+   color: rgb(250,114,193); 
 }
 .footer .container .page ul
 {
@@ -100,5 +100,5 @@
 }
 .footer .container .page ul li:hover
 {
-    color: #0989ff;
+    color: #192f44;
 }

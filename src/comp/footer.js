@@ -11,11 +11,11 @@ const Footer= () =>{
     <div className='container'>
         <div className='about'>
             <div className='logo'>
-                <img src={process.env.PUBLIC_URL + '/img/Book logo.jpeg'}width={100} height={100} alt='logo'></img>
+                <img src={process.env.PUBLIC_URL + '/img/Bed logo.jpeg'}width={100} height={100} alt='logo'></img>
                 <h3> READ ME</h3>
             </div>
             <div className='detail'>
-                <p>We are a group of book lovers that collect eccentric and classical books for you</p>
+                <p>Where sleep is valued</p>
                 <div className='icon'>
                     <li><RiFacebookFill/></li>
                     <li><AiOutlineInstagram/></li>

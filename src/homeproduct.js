@@ -51,7 +51,7 @@ const Homeproduct=
     {
         id:8,
         Title:"Bunk bed.",
-        Cat:'Blackwo',
+        Cat:'Blackwood',
         Price:'KSH.19990',
         Img:process.env.PUBLIC_URL + '/img/bed 8.jpeg'
     },
