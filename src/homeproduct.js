@@ -27,6 +27,7 @@ const Homeproduct=
         Cat:'Loft',
         Price:'KSH.12990',
         Img:process.env.PUBLIC_URL + '/img/bed 4.jpeg'
+    },
     {
         id:5,
         Title:"Adjustable bed.",
